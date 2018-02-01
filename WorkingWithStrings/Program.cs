@@ -10,7 +10,13 @@ namespace WorkingWithStrings
     {
         static void Main(string[] args)
         {
-
+            string myString = null;
+            for (int i = 0; i < 100; i++)
+            {
+                myString += "--" + i.ToString();
+            }
+            Console.WriteLine(myString);
+            Console.ReadLine();
         }
     }
 }
