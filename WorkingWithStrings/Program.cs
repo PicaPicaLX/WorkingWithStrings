@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// 访问下面的网站可以了解更多有关数字格式的知识
+// https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings
 
 namespace WorkingWithStrings
 {
