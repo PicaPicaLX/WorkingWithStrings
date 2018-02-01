@@ -10,6 +10,7 @@ namespace WorkingWithStrings
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
